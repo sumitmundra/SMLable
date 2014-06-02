@@ -1,4 +1,4 @@
 SMLable
 =======
 
-UILabel letter touch
+UILabel Subclass to get which letter pressed.
